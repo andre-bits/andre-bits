@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌎 Base of operations: Denmark<br>✨ Been coding since 2013 <br>💻 More of me: https://andre-gollubits.dk<br>📚 Current focus: CC65 Compiler <br>🎯 Goals: Amiga/C64 game</p>
+<p align="left">🌎 Base of operations: Denmark<br>✨ Been coding since 2013 <br>💻 More of me: https://andre-gollubits.dk<br>📚 Current focus: C/C++ <br>🎯 Goals: Amiga/C64 game</p>
 
 ###
 
